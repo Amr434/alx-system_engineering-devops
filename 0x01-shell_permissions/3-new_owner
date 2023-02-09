@@ -1,2 +1,2 @@
 #!/bin/bash
--rwxrw-r-- 1 root  root  0 Feb  9 14:52 3-new_owner   -rw-rw-r-- 1 betty root  0 Feb  9 14:51 hello 
+sudo chown betty hello
