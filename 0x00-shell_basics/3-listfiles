@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-total 16
--rwxr--r-- 1 root root 16 Feb  9 06:49 0-current_working_directory
--rwxr-xr-x 1 root root 95 Feb  9 11:13 1-listit
--rwxr--r-- 1 root root 21 Feb  9 08:44 2-bring_me_home
--rw-r--r-- 1 root root  0 Feb  9 11:28 3-listfiles
--rw-r--r-- 1 root root 41 Feb  9 06:53 README.md
-=======
+
 #!/bin/bash
 total 24 -rwxr-xr-x 1 996 992 16 0-current_working_directory -rw-r--r-- 1 996 992 16 0x00-shell_basic -rwxr-xr-x 1 996 992 95 1-listit -rwxr-xr-x 1 996 992 21 2-bring_me_home -rwxr-xr-x 1 996 992 349 3-listfiles -rw-r--r-- 1 996 992 41 README.md
->>>>>>> 2d4ea2baa7317423f104bd0b9de7a199e84b083e
+
