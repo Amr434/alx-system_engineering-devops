@@ -1,4 +1,3 @@
 
 #!/bin/bash
-total 24 -rwxr-xr-x 1 996 992 16 0-current_working_directory -rw-r--r-- 1 996 992 16 0x00-shell_basic -rwxr-xr-x 1 996 992 95 1-listit -rwxr-xr-x 1 996 992 21 2-bring_me_home -rwxr-xr-x 1 996 992 349 3-listfiles -rw-r--r-- 1 996 992 41 README.md
-
+ls -l
