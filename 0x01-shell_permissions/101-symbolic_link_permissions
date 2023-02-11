@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -hR chown vincent:staff
+sudo chmod chown  -hR vincent:staff
